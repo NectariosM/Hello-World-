@@ -4,12 +4,12 @@ If you’re looking for inspiration on where to go and what to do, you should ke
 
 Also check out our dedicated mini-sites for top tourist destinations around the UK, that as well as providing you with tourist and travel information, help you to compare the best deals: 
 
-<b><a href="keswick.hotels-fairy.com/" target="_Blank">Keswick Hotels</a><p>
-<b><a href="ambleside.hotels-fairy.com/" target="_top">Ambleside Hotels</a><p> 
-<b><a href="windermere.hotels-fairy.com/" target="_top">Windermere Hotels</a><p> 
-<b><a href="blackpool.hotels-fairy.com/" target="_top">Blackpool Hotels</a><p> 
-<b><a href="Stratford.hotels-fairy.com/" target="_top">Stratford-upon-Avon Hotels</a><p>
-<b><a href="Newquay.hotels-fairy.com/" target="_top">Newquay Hotels</a></b><p>  
+<b> http://keswick.hotels-fairy.com/ Keswick Hotels <p>
+<b> http://ambleside.hotels-fairy.com/ Ambleside Hotels <p> 
+<b> http://windermere.hotels-fairy.com/ Windermere Hotels <p> 
+<b> http://blackpool.hotels-fairy.com/  Blackpool Hotels <p> 
+<b> http://Stratford.hotels-fairy.com/ Stratford-upon-Avon Hotels<p>
+<b> http://Newquay.hotels-fairy.com/ Newquay Hotels<p>  
 
 Wherever you’re going on holiday, Hotels Fairy is the magical hotel comparison site that will find you the cheapest hotel prices everytime.  Happy Travels!
 
